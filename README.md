@@ -10,26 +10,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```communication
 Syntax highlighted code block
 
-#  1
-## Header 2
-### Header 3
+# Spontaneous Production of Speech 1
+## Progress 2
+### Headwords and Handwords, learn English as you learn skills of the body 3
 
-- Bulleted
-- List
+- Associations
+- Mnemonics
 
-1. Numbered
-2. List
+1. Conversation Conventions
+2. Common Practices
 
-**Bold** and _Italic_ and `Code` text
+**How** and _Lingua Franca_ and `major` languages
 
-[Link](url) and ![Image](src)
+[Share](https://drive.google.com/file/d/1xOii_I4iXwzXpNKd2V8vZlj6laXgkiGO/view?usp=sharing) and ![Image](images/Yatagarasu_A.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [LANGUAPPPS](https://Languapps.com).
 
-### Jekyll Themes
+### Reviews
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nostrathomas0/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The core of this site is it's growing archive of information on Mobile Assisted Language Learning. Ths site will use the dev's curration and styles from themes you have selected in your [repository settings](https://github.com/Nostrathomas0/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
