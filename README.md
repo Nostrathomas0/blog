@@ -1,17 +1,16 @@
 ## What's up Languapps?
 
-We'll reach you with posts here [editor on GitHub](https://github.com/Nostrathomas0/2.md) to maintain and preview the content for your website in Markdown files.
+We'll reach you with posts here if you're interested in helping with the site. ATM it's just me, [editor on GitHub](https://github.com/Nostrathomas0/blog.md) to maintain and preview the content for our website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Languapps
+🚴 is a lightweight waybridge to easy-to-use vocabulary and syntax in other languages. It includes conventions for
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+```communication
 Syntax highlighted code block
 
-# Header 1
+#  1
 ## Header 2
 ### Header 3
 
