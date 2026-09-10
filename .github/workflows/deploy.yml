@@ -1,0 +1,36 @@
+name: Deploy Blog
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build   # should output static HTML into ./dist
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+
+      - name: Sync build output to S3
+        run: aws s3 sync ./dist s3://languapps.com/blog --delete
+
+      - name: Invalidate CloudFront cache (blog paths only)
+        run: aws cloudfront create-invalidation --distribution-id E34IBHMBCDJKRU --paths "/blog/*"
