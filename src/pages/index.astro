@@ -15,7 +15,7 @@ const posts = (await getCollection('blog')).sort(
     <ul>
       {posts.map((post) => (
         <li>
-          <a href={`/${post.data.slug ?? post.id}/`}>{post.data.title}</a>
+          <a href={`/blog/${post.data.slug ?? post.id}/`}>{post.data.title}</a>
           <p>{post.data.cluster}</p>
         </li>
       ))}
