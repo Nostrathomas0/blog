@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Languapps Blog</title>
+  </head>
+  <body>
+    <h1>Languapps Blog</h1>
+    <ul>
+      {posts.map((post) => (
+        <li>
+          <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+          <p>{post.data.cluster}</p>
+        </li>
+      ))}
+    </ul>
+  </body>
+</html>
