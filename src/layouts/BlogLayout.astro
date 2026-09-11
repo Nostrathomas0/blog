@@ -1,0 +1,49 @@
+---
+const { title } = Astro.props;
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <title>{title} — Languapps Blog</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a href="/blog/" class="site-logo">Languapps</a>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <p>&copy; {new Date().getFullYear()} Languapps — Nice, France</p>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .site-header {
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid #e5e6e7;
+  }
+  .site-logo {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    letter-spacing: 0.08em;
+    color: #f35e08;
+    text-decoration: none;
+  }
+  main {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+  .site-footer {
+    text-align: center;
+    padding: 2rem;
+    color: #39454b;
+    font-size: 0.85rem;
+  }
+</style>

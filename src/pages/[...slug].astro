@@ -1,5 +1,8 @@
 ---
 import { getCollection, render } from 'astro:content';
+import BlogLayout from '../layouts/BlogLayout.astro';
+import avatar from '../assets/thomas-avatar.jpg';
+import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -12,16 +15,115 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 ---
-<html lang={post.data.lang}>
-  <head>
-    <meta charset="utf-8" />
-    <title>{post.data.title}</title>
-  </head>
-  <body>
-    <article>
-      <h1>{post.data.title}</h1>
-      <p><em>By {post.data.author}</em></p>
+<BlogLayout title={post.data.title}>
+  <article>
+    <div class="post-meta">
+      <span class="cluster-tag">{post.data.cluster}</span>
+      <time datetime={post.data.date.toISOString()}>
+        {post.data.date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}
+      </time>
+    </div>
+
+    <h1>{post.data.title}</h1>
+
+    <div class="author-line">
+      <Image src={avatar} alt={post.data.author} width={40} height={40} class="avatar-small" />
+      <div>
+        <strong>{post.data.author}</strong>
+        {post.data.author_bio && <p class="author-bio">{post.data.author_bio}</p>}
+      </div>
+    </div>
+
+    <div class="post-content">
       <Content />
-    </article>
-  </body>
-</html>
+    </div>
+
+    {post.data.tags && (
+      <div class="tags">
+        {post.data.tags.map((tag) => <span class="tag">{tag}</span>)}
+      </div>
+    )}
+
+    <a href="/blog/" class="cta-button back-link">&larr; Back to all posts</a>
+  </article>
+</BlogLayout>
+
+<style>
+  /* Colors/fonts below are pulled directly from languapps/assets/css/main.css — no new palette invented */
+  .post-meta {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    font-size: 0.85rem;
+    margin-bottom: 0.5rem;
+    color: #39454b;
+  }
+  .cluster-tag {
+    background: #98c593;
+    color: #fff;
+    padding: 0.15rem 0.6rem;
+    border-radius: 999px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  h1 {
+    font-size: 2rem;
+    margin: 0.25rem 0 1.5rem;
+    color: #39454b;
+  }
+  .author-line {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #e5e6e7;
+    color: #39454b;
+  }
+  .avatar-small {
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .author-bio {
+    margin: 0.15rem 0 0;
+    font-size: 0.85rem;
+    opacity: 0.8;
+  }
+  .post-content {
+    line-height: 1.7;
+    font-size: 1.1rem;
+    color: #39454b;
+  }
+  .post-content h2 {
+    margin-top: 2rem;
+  }
+  .post-content blockquote {
+    border-left: 3px solid #f35e08;
+    padding-left: 1rem;
+    font-style: italic;
+    margin: 1.5rem 0;
+  }
+  .tags {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .tag {
+    background: #e5e6e7;
+    color: #39454b;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+  }
+  /* .cta-button is main.css's real existing class (green, white text) — reused as-is here */
+  .back-link {
+    display: inline-block;
+    width: auto;
+    text-decoration: none;
+    margin-top: 2.5rem;
+  }
+</style>
