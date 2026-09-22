@@ -14,17 +14,19 @@ cta_target: "/services/"
 has_bibliography: false
 ---
 
+The Critical Period Theory states that there is a biologically determined phase from birth until early childhood where our phonological framework is built, inherent limiting our ability to acquire nativelike proficiency in new languages after early childhood. On the other hand, many people claim to have acquired nativelike proficiency after beginning in late childhood or even as adults.   
 
+The adult brain has it's advantages, but it's hard to deny that unconscious phonological awareness develops best in a child's mind. This should not imply that adults are somehow worse at language learning or discourage adults in any way from the challenge of learning a new language. It informs us of the differences between the developing and the developed mind and how we should nourish it. 
 
-<!-- TODO: transition into the actual 5 myths — draft trails off here into a Wall Street English tangent that likely belongs in "Why You Need a Language Trainer" instead -->
+So let's dispell some of the common myths of the Critical Period Theory. 
 
 ## Myth 1: Young Children Learn Language Effortlessly
 
-The long standing hypothesis is that children learn their first languages automatically. 
+The long standing hypothesis is that children aquire language through immersion.   
 
 ## Myth 2: Phonological Sensitivity Ends at Five
 
-<!-- TODO -->
+<!-- TODO -->learn
 
 ## Myth 3: A Child's Language is 
 
