@@ -29,7 +29,7 @@ const { Content } = await render(post);
     <h1>{post.data.title}</h1>
 
     <div class="author-line">
-      <img src="/blog/images/thomas-avatar.jpg" alt={post.data.author} width="40" height="40" class="avatar-small" />
+      <img src="/images/thomas-avatar.jpg" alt={post.data.author} width="40" height="40" class="avatar-small" />
       <div>
         <strong>{post.data.author}</strong>
         {post.data.author_bio && <p class="author-bio">{post.data.author_bio}</p>}
@@ -104,6 +104,13 @@ const { Content } = await render(post);
     line-height: 1.7;
     font-size: 1.1rem;
     color: #39454b;
+  }
+  .post-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    display: block;
   }
   .post-content h2 {
     margin-top: 2rem;
