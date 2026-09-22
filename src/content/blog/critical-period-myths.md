@@ -14,11 +14,7 @@ cta_target: "/services/"
 has_bibliography: false
 ---
 
-A young child saw a seagull gliding in the wind and said, _I wish I could fly_ to which I asked, _Do you know why that bird can fly and we can't?_ the child shook their head _no_ and looked up at me wondering what I would say. _Because that bird's parents could also fly._  
 
-
-
-Nobody remembers learning their first language. We don't remember what we were thinking we learned to call *mama*. Every child develops language the same way.  Those  not through studying, but through acquisition. It was simply part of the world around them. Without it, humanity would look completely different. Language may not be universal across every human need, but it is unmistakably, fundamentally human.
 
 <!-- TODO: transition into the actual 5 myths — draft trails off here into a Wall Street English tangent that likely belongs in "Why You Need a Language Trainer" instead -->
 
@@ -26,11 +22,11 @@ Nobody remembers learning their first language. We don't remember what we were t
 
 The long standing hypothesis is that children learn their first languages automatically. 
 
-## Myth 2: [heading pending]
+## Myth 2: Phonological Sensitivity Ends at Five
 
 <!-- TODO -->
 
-## Myth 3: [heading pending]
+## Myth 3: A Child's Language is 
 
 <!-- TODO -->
 
@@ -41,6 +37,12 @@ The long standing hypothesis is that children learn their first languages automa
 ## Myth 5: [heading pending]
 
 <!-- TODO -->
+
+A young child saw a seagull gliding in the wind and said, _I wish I could fly_ to which I asked, _Do you know why that bird can fly and we can't?_ the child shook their head _no_ and looked up at me wondering what I would say. _Because that bird's parents could also fly._  
+
+
+
+Nobody remembers learning their first language. We don't remember what we were thinking we learned to call *mama*. Every child develops language the same way.  Those  not through studying, but through acquisition. It was simply part of the world around them. Without it, humanity would look completely different. Language may not be universal across every human need, but it is unmistakably, fundamentally human.
 
 > "A short, attributed testimonial goes here — ideally from an adult learner who made real progress despite starting later in life."
 > — Student first name, context
