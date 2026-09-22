@@ -7,19 +7,24 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/critical-period-myths-header.jpg"
 image_alt: "Timeline graphic of language acquisition across ages"
 cluster: "private-lessons"
-node: null   # not yet mapped to the interlink wheel — consider adding as a pillar post
+lang: "en"
 related: ["why-kids-learn-easier", "how-to-become-fluent-without-translating"]
 tags: ["critical period", "adult learners", "language acquisition"]
 cta_target: "/services/"
+has_bibliography: 
 ---
 
-Nobody remembers learning their first language. We don't remember what we were thinking the moment we first recognized that *mom* is our favorite person, *water* is the wet stuff that satisfies, or that if you call someone's name, they answer. Every child develops language the same way — not through studying, but through acquisition. It was simply part of the world around them. Without it, humanity would look completely different. Language may not be universal across every human need, but it is unmistakably, fundamentally human.
+A young child saw a seagull gliding in the wind and said, _I wish I could fly_ to which I asked, _Do you know why that bird can fly and we can't?_ the child shook their head _no_ and looked up at me wondering what I would say. _Because that bird's parents could also fly._  
+
+
+
+Nobody remembers learning their first language. We don't remember what we were thinking we learned to call *mama*. Every child develops language the same way.  Those  not through studying, but through acquisition. It was simply part of the world around them. Without it, humanity would look completely different. Language may not be universal across every human need, but it is unmistakably, fundamentally human.
 
 <!-- TODO: transition into the actual 5 myths — draft trails off here into a Wall Street English tangent that likely belongs in "Why You Need a Language Trainer" instead -->
 
-## Myth 1: [heading pending]
+## Myth 1: Young Children Learn Language Effortlessly
 
-<!-- TODO -->
+The long standing hypothesis is that children learn their first languages automatically. 
 
 ## Myth 2: [heading pending]
 

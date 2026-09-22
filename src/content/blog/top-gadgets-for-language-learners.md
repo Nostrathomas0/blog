@@ -7,10 +7,11 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/language-gadgets-header.jpg"
 image_alt: "Collection of language-learning gadgets on a desk"
 cluster: "private-lessons"
-node: null   # not yet mapped to the interlink wheel — good candidate for a "resources" side entry
+lang: "en"
 related: ["turn-passive-vocab-into-useable-words", "why-you-need-a-language-trainer"]
 tags: ["language learning tools", "tech gadgets", "gear review"]
 cta_target: "/services/"
+has_bibliography: 
 ---
 
 <!-- TODO: title says "Top 6" in the original draft but only 5 items were sketched — confirm final count before publishing -->

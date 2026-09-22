@@ -7,10 +7,11 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/understand-but-cant-speak-header.jpg"
 image_alt: "Student pausing mid-sentence trying to find the right English word"
 cluster: "private-lessons"
-node: 1
+lang: "en"
 related: ["are-private-english-lessons-worth-it", "how-to-become-fluent-without-translating", "turn-passive-vocab-into-useable-words"]
 tags: ["speaking anxiety", "comprehension vs production", "fluency"]
 cta_target: "/services/"
+has_bibliography: 
 ---
 
 So I really wanted to figure out why this is. When my students tell me "I understand everything, I just can't *speak*," my answers used to range from the obvious, "But you just said *that* in English" or technical, "English is easier to understand than to produce because of its dense phonology" to the practical, "Your voice is a muscle, let's train it through conversation". Really, there's no single reason people feel tongue tied so I set out to find three real reasons this happens.

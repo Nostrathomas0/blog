@@ -7,10 +7,11 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/language-trainer-header.jpg"
 image_alt: "Coach-style one-to-one coaching session, sport metaphor"
 cluster: "private-lessons"
-node: null   # not yet mapped to the interlink wheel — strong candidate for a primary conversion post
+lang: "en"
 related: ["learning-styles-myth", "are-private-english-lessons-worth-it", "i-understand-english-but-cant-speak-it"]
 tags: ["language training", "coaching methodology", "value proposition"]
 cta_target: "/services/"
+has_bibliography: 
 ---
 
 Language learning is like learning a sport. You started English in grade school and you were good at it. Your teachers encouraged you to continue, so you kept learning through university. You chose a degree with some English instruction, and again a teacher encouraged you onward. Maybe your program even included some proficiency-exam prep — TOEIC or IELTS — and you took it once, then again.

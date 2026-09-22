@@ -7,21 +7,27 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/change-accent-adult-header.jpg"
 image_alt: "Adult practicing pronunciation in front of a mirror"
 cluster: "pronunciation-accents"
-node: 10
+lang: "en"
 related: ["how-to-improve-pronunciation-when-already-fluent", "change-english-accent-adult-followup", "neuroanatomy-of-speech"]
 tags: ["accent", "pronunciation", "adult learners"]
 cta_target: "/services/"
+has_bibliography: true
 ---
 
-<!-- TODO: full post body — draft only contained the title so far -->
+Americans usually speak with a throaty R sound, like a pirate _arrr_. Irish people use a T or D sound to start words like **three** or **there**, _tree_ and _dere_, while the French people often use z and s sounds. _Mais zis only  scratches ze surface of ze phonological features zat form un accent_. While, most English speakers  would agree that there is no _correct_ accent, there are hundreds of different English accents representing the many ways in which people speak. Unless you started learning English when you were very young, your voice probably gives away your nationality when you speak English. Many people want to gain phonological features of common, or international English. Other's want to lose pronunciation features from their first language when speaking English. If you want to change your accent, I have a few tips on how.     
 
 ## Why accents form
 
-<!-- TODO -->
+Simply put, we learn from our parents, teachers and other members of our community.  Within a language group, your accent can mark your region and social community. Your voice changes as you age and the features of language that you accquire also change throughout your life. You're going to learn to speak with the stress and emphasis of your community at a young age. All the musical and rhthmical elements of your first language become set during early childhood. The grammar and word order will continue to develop throughout your childhood and you'll use new vocabulary throughout your life. Your accent will be heavily influenced by your first language.  
 
 ## What the research actually says
 
-<!-- TODO: this is the section to cite real studies on adult phonological plasticity -->
+A
+(![Wave](/image/Wave.jpg)
+
+Late second language learners show measurable changes in their phonological systems[^heidlmayr2021].
+
+[^heidlmayr2021]: Karin Heidlmayr, Emmanuel Ferragne, and Frédéric Isel. (2021). "Neuroplasticity in the phonological system: The PMN and the N400 as markers for the perception of non-native phonemic contrasts by late second language learners." *Neuropsychologia*, 107831. [https://doi.org](https://doi.org)
 
 ## Practical exercises that actually move the needle
 

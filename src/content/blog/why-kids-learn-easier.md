@@ -7,10 +7,11 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/kids-learning-header.jpg"
 image_alt: "Child playing and talking, illustrating natural language acquisition"
 cluster: "private-lessons"
-node: null   # not yet mapped to the interlink wheel — pairs naturally with critical-period-myths
+lang: "en"
 related: ["critical-period-myths", "neuroanatomy-of-speech"]
 tags: ["child language acquisition", "adult learning"]
 cta_target: "/services/"
+has_bibliography: 
 ---
 
 Nobody remembers learning their first language. We don't remember first recognizing that *mom* is our favorite lady, *water* is the wet stuff that satisfies, or that if you call someone's name, they answer. Every child develops their first language the same basic way — acquired from family and culture, simply part of the world around them. Learning to speak was like learning to walk: a major node on our personal skill tree. To walk, you need balance; to speak, you need to hear and make sounds — and you did both because you're human. Our brains and voices start us climbing the ladder of language immediately, and we keep climbing well into adulthood. But it's those formative years that make our first language special.

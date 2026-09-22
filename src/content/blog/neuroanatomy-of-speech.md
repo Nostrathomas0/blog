@@ -7,10 +7,11 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/neuroanatomy-speech-header.jpg"
 image_alt: "Diagram of brain regions involved in language production"
 cluster: "pronunciation-accents"
-node: null   # not yet mapped to the interlink wheel
+lang: "en"
 related: ["can-you-change-your-accent-as-an-adult", "why-kids-learn-easier"]
 tags: ["neuroscience", "speech production", "memory"]
 cta_target: "/services/"
+has_bibliography: 
 ---
 
 Someone asks you a question. Before you even form a reply, something is already happening beneath the surface — retrieval, sequencing, production, all in a fraction of a second.

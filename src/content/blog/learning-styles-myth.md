@@ -7,10 +7,11 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/learning-styles-header.jpg"
 image_alt: "Icons representing visual, auditory, and kinesthetic learning"
 cluster: "speaking-fluency"
-node: null   # not yet mapped to the interlink wheel
+lang: "en"
 related: ["why-you-need-a-language-trainer", "why-you-keep-making-mistakes"]
 tags: ["learning styles", "self-directed learning"]
 cta_target: "/services/"
+has_bibliography: 
 ---
 
 Maybe you took a personality test once, and it decided your personality favors vocal input. Or maybe your high school teacher taught visually, and it left a lasting impression. Perhaps you call yourself a kinesthetic learner because you enjoy video games and respond well to interactive feedback.

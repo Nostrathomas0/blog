@@ -7,10 +7,10 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/flashcard-vocab-header.jpg"
 image_alt: "Flashcards and some different pages"
 cluster: "self-teaching"
+lang: "en"
 related: ["why-you-keep-making-mistakes", "move-from-b1-to-b2", "i-understand-english-but-cant-speak-it"]
 tags: ["vocabulary", "flashcards", "active recall"]
 cta_target: "/services/"
-lang: "en"
 has_bibliography: false 
 ---
 
