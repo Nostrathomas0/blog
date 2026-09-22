@@ -23,7 +23,6 @@ Simply put, we learn from our parents, teachers and other members of our communi
 ## What the research actually says
 
 A
-![Wave](/images/blog/wave.jpg)
 
 Late second language learners show measurable changes in their phonological systems[^heidlmayr2021].
 
