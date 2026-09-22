@@ -1,8 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
 import BlogLayout from '../layouts/BlogLayout.astro';
-import avatar from '../images/thomas-avatar.jpg';
-import { Image } from 'astro:assets';
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
@@ -10,7 +8,7 @@ const posts = (await getCollection('blog')).sort(
 ---
 <BlogLayout title="Blog">
   <section class="masthead">
-    <Image src={avatar} alt="Thomas Schwartz" width={64} height={64} class="avatar" />
+    <img src="/images/thomas-avatar.jpg" alt="Thomas Schwartz" width="64" height="64" class="avatar" />
     <div>
       <h1>Languapps Blog</h1>
       <p class="byline">Written by Thomas Schwartz — MA TESOL, teacher &amp; builder at Languapps</p>
