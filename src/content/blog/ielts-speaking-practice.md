@@ -11,7 +11,7 @@ lang: "en"
 related: ["ielts-speaking-practice-with-a-teacher", "your-first-private-english-lesson", "why-you-keep-making-mistakes"]
 tags: ["IELTS", "speaking exam", "exam anxiety"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 Tongue-tied in the moment, you glance up and away, searching for the words to start your answer. You introduce yourself as practiced, but forget to conjugate a verb and fall back on the root form. The next question comes. You don't fully understand it. *What is... a famous character... you have... recently?* You start talking about Star Wars movies you saw five years ago.

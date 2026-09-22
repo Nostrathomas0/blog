@@ -11,7 +11,7 @@ lang: "en"
 related: ["why-kids-learn-easier", "how-to-become-fluent-without-translating"]
 tags: ["critical period", "adult learners", "language acquisition"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 A young child saw a seagull gliding in the wind and said, _I wish I could fly_ to which I asked, _Do you know why that bird can fly and we can't?_ the child shook their head _no_ and looked up at me wondering what I would say. _Because that bird's parents could also fly._  

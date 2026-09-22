@@ -11,7 +11,7 @@ lang: "fr"
 related: ["why-kids-learn-easier", "how-to-become-fluent-without-translating"]
 tags: ["critical period", "adult learners", "language acquisition"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 ###

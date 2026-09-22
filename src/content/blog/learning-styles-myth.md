@@ -11,7 +11,7 @@ lang: "en"
 related: ["why-you-need-a-language-trainer", "why-you-keep-making-mistakes"]
 tags: ["learning styles", "self-directed learning"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 Maybe you took a personality test once, and it decided your personality favors vocal input. Or maybe your high school teacher taught visually, and it left a lasting impression. Perhaps you call yourself a kinesthetic learner because you enjoy video games and respond well to interactive feedback.

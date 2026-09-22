@@ -11,7 +11,7 @@ lang: "en"
 related: ["can-you-change-your-accent-as-an-adult", "why-kids-learn-easier"]
 tags: ["neuroscience", "speech production", "memory"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 Someone asks you a question. Before you even form a reply, something is already happening beneath the surface — retrieval, sequencing, production, all in a fraction of a second.

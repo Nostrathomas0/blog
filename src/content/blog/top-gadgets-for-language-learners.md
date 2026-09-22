@@ -11,7 +11,7 @@ lang: "en"
 related: ["turn-passive-vocab-into-useable-words", "why-you-need-a-language-trainer"]
 tags: ["language learning tools", "tech gadgets", "gear review"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 <!-- TODO: title says "Top 6" in the original draft but only 5 items were sketched — confirm final count before publishing -->

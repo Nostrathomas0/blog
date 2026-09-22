@@ -11,7 +11,7 @@ lang: "en"
 related: ["move-from-b1-to-b2", "turn-passive-vocab-into-useable-words", "ielts-speaking-practice"]
 tags: ["feedback", "language mistakes", "self-correction"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 Unless you were lucky enough to be raised bilingual, you probably make mistakes when writing or speaking a second language — and even trilingual speakers still mix up a verb for a noun, or misplace it in the sentence. Here's the real secret to progressing past the mistakes you keep repeating: study and speak with the curiosity of a total beginner again.

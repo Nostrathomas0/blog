@@ -11,7 +11,7 @@ lang: "en"
 related: ["are-private-english-lessons-worth-it", "how-to-become-fluent-without-translating", "turn-passive-vocab-into-useable-words"]
 tags: ["speaking anxiety", "comprehension vs production", "fluency"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 So I really wanted to figure out why this is. When my students tell me "I understand everything, I just can't *speak*," my answers used to range from the obvious, "But you just said *that* in English" or technical, "English is easier to understand than to produce because of its dense phonology" to the practical, "Your voice is a muscle, let's train it through conversation". Really, there's no single reason people feel tongue tied so I set out to find three real reasons this happens.

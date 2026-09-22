@@ -11,7 +11,7 @@ language: "en"
 related: ["why-you-keep-making-mistakes", "move-from-b1-to-b2", "i-understand-english-but-cant-speak-it"]
 tags: ["vocabulary", "flashcards", "active recall"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 ## Why recognizing a word isn't the same as using it

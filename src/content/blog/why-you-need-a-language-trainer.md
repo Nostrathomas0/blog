@@ -11,7 +11,7 @@ lang: "en"
 related: ["learning-styles-myth", "are-private-english-lessons-worth-it", "i-understand-english-but-cant-speak-it"]
 tags: ["language training", "coaching methodology", "value proposition"]
 cta_target: "/services/"
-has_bibliography: 
+has_bibliography: false
 ---
 
 Language learning is like learning a sport. You started English in grade school and you were good at it. Your teachers encouraged you to continue, so you kept learning through university. You chose a degree with some English instruction, and again a teacher encouraged you onward. Maybe your program even included some proficiency-exam prep — TOEIC or IELTS — and you took it once, then again.
