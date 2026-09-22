@@ -1,8 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BlogLayout from '../layouts/BlogLayout.astro';
-import avatar from '../images/thomas-avatar.jpg';
-import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -24,10 +22,14 @@ const { Content } = await render(post);
       </time>
     </div>
 
+    {post.data.image && (
+      <img src={post.data.image} alt={post.data.image_alt ?? post.data.title} class="hero-image" />
+    )}
+
     <h1>{post.data.title}</h1>
 
     <div class="author-line">
-      <Image src={avatar} alt={post.data.author} width={40} height={40} class="avatar-small" />
+      <img src="/images/thomas-avatar.jpg" alt={post.data.author} width="40" height="40" class="avatar-small" />
       <div>
         <strong>{post.data.author}</strong>
         {post.data.author_bio && <p class="author-bio">{post.data.author_bio}</p>}
@@ -67,6 +69,12 @@ const { Content } = await render(post);
     font-size: 0.7rem;
     letter-spacing: 0.05em;
     text-transform: uppercase;
+  }
+  .hero-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
   }
   h1 {
     font-size: 2rem;
