@@ -32,7 +32,7 @@ All is not lost in adulthood. To a real extent, we can rebuild — and even impr
 ## Practical takeaways
 
 <!-- TODO -->
-
+https://www.smithsonianmag.com/science-nature/accents-are-forever-35886605/
 ---
 
 **Related reading:** [The Top 5 Myths About the Critical Period of Language Acquisition](/blog/critical-period-myths/) · [The Neuroanatomy of Speech](/blog/neuroanatomy-of-speech/)

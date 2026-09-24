@@ -28,7 +28,7 @@ School life is all about pairing comprehensible input with natural expression. S
 
 ## Reason 3: The Cognitive Filter
 
-
+This is a rather old bit of theory that suggests that stress limits our social and cognitive skills. Later on, a SLA researcher named Stephen Krashen suggested that new language input turns on those same survival instincts. Even if you're comfortable with reading or listening, hearing a new language can temporarily turn off your social skills.  
 
 
 <!-- TODO: content for reason 2 -->

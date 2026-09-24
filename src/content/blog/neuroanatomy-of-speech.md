@@ -14,7 +14,7 @@ cta_target: "/services/"
 has_bibliography: false
 ---
 
-Someone asks you a question. Before you even form a reply, something is already happening beneath the surface — retrieval, sequencing, production, all in a fraction of a second.
+Someone asks you a question. Before you even form a reply, something is already happening beneath the surface — retrieval, sequencing, production, all in a fraction of a second. The mind works like that; not quite a reflex but chains of neurons that fire in sequence to respond to our environment. 
 
 <!-- TODO: resolve the two open questions below into full sections -->
 
@@ -26,7 +26,9 @@ Someone asks you a question. Before you even form a reply, something is already 
 
 For example: is there a different neuroanatomical response to a question like *"Have you read any good books lately?"* versus *"What's your job?"* — one draws on long-term autobiographical memory, the other on a more fixed, rehearsed answer. This distinction is worth exploring directly.
 
-<!-- TODO -->
+## Speech, an Entirely Human skill
+
+
 
 > "A short, attributed testimonial goes here — optional for a more technical post like this one; could instead be a pull-quote from a cited researcher."
 

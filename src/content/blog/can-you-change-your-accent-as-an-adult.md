@@ -14,11 +14,13 @@ cta_target: "/services/"
 has_bibliography: true
 ---
 
-Americans usually speak with a throaty R sound, like a pirate _arrr_. Irish people use a T or D sound to start words like **three** or **there**, _tree_ and _dere_, while the French people often use z and s sounds. _Mais zis only  scratches ze surface of ze phonological features zat form un accent_. While, most English speakers  would agree that there is no _correct_ accent, there are hundreds of different English accents representing the many ways in which people speak. Unless you started learning English when you were very young, your voice probably gives away your nationality when you speak English. Many people want to gain phonological features of common, or international English. Other's want to lose pronunciation features from their first language when speaking English. If you want to change your accent, I have a few tips on how.     
+Americans usually speak with a throaty *r* sound, like a pirate _Arrr Matey_. Irish people use a T or D sound to start words like **three** or **there**, _tree_ and _dere_, while the French people often use *z* and *s* sounds _zis only manages to scratch ze surface of ze phonological features zat form un accent_. 
+
+Most English speakers  would agree that there is no correct accent. There are hundreds of different English accents representing the many ways in which people speak English. It's rather crude to suggest that one way accent is correct. But still, your voice probably gives away your nationality and it's usually not rude to point that out in polite conversation. Gaining the ability to adapt phonological features of common, international or regional spoken English is really a fun challenge that can help you advance in professional or social life.     
 
 ## Why accents form
 
-Simply put, we learn from our parents, teachers and other members of our community.  Within a language group, your accent can mark your region and social community. Your voice changes as you age and the features of language that you accquire also change throughout your life. You're going to learn to speak with the stress and emphasis of your community at a young age. All the musical and rhthmical elements of your first language become set during early childhood. The grammar and word order will continue to develop throughout your childhood and you'll use new vocabulary throughout your life. Your accent will be heavily influenced by your first language.  
+We learn from our parents, teachers and other members of our community. Your accent marks you as a member of your community, but your voice changes as you age. The language that you accquire changes throughout your life. The musical and rhythmical elements of your first language are set during early childhood. The grammar and word order will continue to develop throughout your childhood and you'll use new vocabulary throughout your life. Your accent will be heavily influenced by your first language.  
 
 ## What the research actually says
 
