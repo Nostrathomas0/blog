@@ -24,7 +24,7 @@ We learn from our parents, teachers and other members of our community. Your acc
 
 ## What the research actually says
 
-A
+A 
 
 Late second language learners show measurable changes in their phonological systems[^heidlmayr2021].
 
