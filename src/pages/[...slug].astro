@@ -29,7 +29,7 @@ const { Content } = await render(post);
     <h1>{post.data.title}</h1>
 
     <div class="author-line">
-      <img src="/images/thomas-avatar.jpg" alt={post.data.author} width="40" height="40" class="avatar-small" />
+      <img src="/blog/images/thomas-avatar.jpg" alt={post.data.author} width="40" height="40" class="avatar-small" />
       <div>
         <strong>{post.data.author}</strong>
         {post.data.author_bio && <p class="author-bio">{post.data.author_bio}</p>}

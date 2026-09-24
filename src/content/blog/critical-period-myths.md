@@ -24,17 +24,17 @@ So let's dispell some of the common myths of the Critical Period Theory.
 
 The long standing hypothesis is that children aquire language through immersion.   
 
-## Myth 2: Phonological Sensitivity Ends at Five
+## Myth 2: Phonological Sensitivity Ends
 
-<!-- TODO -->learn
+ 
 
-## Myth 3: A Child's Language is 
-
-<!-- TODO -->
-
-## Myth 4: [heading pending]
+## Myth 3: Children Master Language First
 
 <!-- TODO -->
+
+## Myth 4: Babies have Super Listening Powers
+
+Universal Listeners
 
 ## Myth 5: [heading pending]
 
