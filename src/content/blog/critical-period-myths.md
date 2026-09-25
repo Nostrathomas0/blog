@@ -35,6 +35,16 @@ The long standing hypothesis is that children aquire language through immersion.
 ## Myth 4: Babies have Super Listening Powers
 
 Universal Listeners
+# Well, how did she know if babies heard the gradual changes? 
+
+Now I've been skeptical about this kind of testing since I first heard about it. These kind of researchers did a lot of perception tests on babies, and the method was as follows.
+1. Baby sits in blindfolded parent's lap. 
+2. Researcher plays sounds for baby from a speaker that also has a toy sitting on it. 
+3. Sounds eminate from the speaker. 
+4. Baby head turns towards the speaker when they notice the sound changes.
+
+Now it's difficult to overstate how much research was done on babies in this way in the 1990s. It's been called the colden age of baby perception research and nearly all the claims that babies brains contain complex systems to begin understanding language reaches back to earlier research done in the 1970s that prooved babies get bored by repetition and will reliably turn their heads towards novel sensations. 
+
 
 ## Myth 5: [heading pending]
 

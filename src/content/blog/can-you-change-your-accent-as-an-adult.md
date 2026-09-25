@@ -20,10 +20,15 @@ Most English speakers  would agree that there is no correct accent. There are hu
 
 ## Why accents form
 
-We learn from our parents, teachers and other members of our community. Your accent marks you as a member of your community, but your voice changes as you age and the parts of language that you accquire change throughout your life. In early childhood, the musical and rhythmical elements of your first language are set. The grammar and word order will continue to develop throughout your childhood and you'll use new vocabulary throughout your life. Your accent will be heavily influenced by your first language.  
+We learn from our parents, teachers and other members of our community. Your accent marks you as a member of your community, but your voice changes as you age and the parts of language that you accquire change throughout your life. In early childhood, the musical and rhythmical elements of your first language are set. The grammar and word order will continue to develop throughout your childhood and you'll use new vocabulary throughout your life. Your accent will be heavily influenced by your first language.
 
 ## What the research actually says
 
+Training your ear and voice to pronounce the words **sit** **seat** and **site** will certinly improve your accuracy in spontaneous speech, but simply knowing the correct pronunciation will isn't enough. In the early 90s, when this kind of research was getting funded at top universities, Patricia Kulh computer generated a /i/ sound like in the word **seat**. She also generated a bunch of other similar vowel sounds that changed gradually until it reached the /ɪ/ sound in sit or the /æ/ sound like in sat. She wanted to see if adults would register the gradually changing sounds as correct phonemes. She also tested babies and monkeys in the same way as a control group. Adults weren't able to notice the changes and would group nearby sounds together. So if she put a dozen sounds, changing in a spectrum from **seat** to **sat**, adults would group the first six together with /i/ and the last six as /æ/. She called this tendancy the **Perceptual Magnet**. [^kuhl1991]
+
+
+
+Peptual Magnat
 Before discussing the research, take a look at the kinds of questions it seeks to answer. 
 - Can babies tell the difference between similar sounds better than adults [^]  
 
@@ -32,6 +37,8 @@ Late second language learners show measurable changes in their phonological syst
 Best CC, McRoberts GW. Infant perception of non-native consonant contrasts that adults assimilate in different ways. Lang Speech. 2003;46(Pt 2-3):183-216. doi: 10.1177/00238309030460020701. PMID: 14748444; PMCID: PMC2773797.
 
 [^heidlmayr2021]: Karin Heidlmayr, Emmanuel Ferragne, and Frédéric Isel. (2021). "Neuroplasticity in the phonological system: The PMN and the N400 as markers for the perception of non-native phonemic contrasts by late second language learners." *Neuropsychologia*, 107831. [https://doi.org](https://doi.org)
+
+[^kuhl1991]: Kuhl PK. Human adults and human infants show a "perceptual magnet effect" for the prototypes of speech categories, monkeys do not. Percept Psychophys. 1991 Aug;50(2):93-107. doi: 10.3758/bf03212211. PMID: 1945741.
 
 ## Practical exercises that actually move the needle
 
