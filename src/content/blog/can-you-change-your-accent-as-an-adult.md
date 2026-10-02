@@ -24,14 +24,13 @@ We learn from our parents, teachers and other members of our community. Your acc
 
 ## What the research actually says
 
-Training your ear and voice to pronounce the words **sit** **seat** and **site** will certinly improve your accuracy in spontaneous speech, but simply knowing the correct pronunciation will isn't enough. In the early 90s, when this kind of research was getting funded at top universities, Patricia Kulh computer generated a /i/ sound like in the word **seat**. She also generated a bunch of other similar vowel sounds that changed gradually until it reached the /ɪ/ sound in sit or the /æ/ sound like in sat. She wanted to see if adults would register the gradually changing sounds as correct phonemes. She also tested babies and monkeys in the same way as a control group. Adults weren't able to notice the changes and would group nearby sounds together. So if she put a dozen sounds, changing in a spectrum from **seat** to **sat**, adults would group the first six together with /i/ and the last six as /æ/. She called this tendancy the **Perceptual Magnet**. [^kuhl1991]
+For an adult language learner, a native accent is like walking a tightrope, while for a native speaker, it's like walking on solid ground. In the 90s and early 2000s a load of research grants sought to figure out why. Training your ear and voice to pronounce the words **sit** **seat** and **site** will certinly improve your accuracy and help you approach nativelike precision, but simply knowing the correct pronunciation isn't enough because of biological limits that are difficult to overcome. 
 
+In the early 90s, when this kind of research was getting funded at top universities, Patricia Kulh used an old computer to generate an /i/ sound like in the word **seat**. She also generated a bunch of other similar vowel sounds that changed gradually to reach other English vowel sounds like the /ɪ/ sound in **sit** or the /æ/ sound like in **sat**. She wanted to see if adults would register the gradually changing sounds. She tested adults and babies of various native languages as well as monkeys. English native adults weren't able to notice the gradual changes and would group nearby sounds together. She called this the *perceptual magnet* effect. To sum up decades of research across hundreds of studies in dozens of languages, *After 10 months, our brains change to recognize our  phonemes and this impacts how we hear and speak forever more.
 
+So, if she put a dozen sounds, changing in a spectrum from **seat** to **sat**, adults would group the first six together with /i/ and the last six as /æ/. [^kuhl1991]
 
-Peptual Magnat
-Before discussing the research, take a look at the kinds of questions it seeks to answer. 
-- Can babies tell the difference between similar sounds better than adults [^]  
-
+Another study 
 Late second language learners show measurable changes in their phonological systems[^heidlmayr2021].
 
 Best CC, McRoberts GW. Infant perception of non-native consonant contrasts that adults assimilate in different ways. Lang Speech. 2003;46(Pt 2-3):183-216. doi: 10.1177/00238309030460020701. PMID: 14748444; PMCID: PMC2773797.
