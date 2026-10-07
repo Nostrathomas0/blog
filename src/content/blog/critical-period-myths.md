@@ -41,12 +41,21 @@ You may have heard that consciousness begins around five years old, which is aro
 Adults can learn grammar rules, formal patterns phrases and vocabulary much faster and more reliably than children. Children are better at learning pronunciation, connected speech and implicit semantic word mapping. Children also don't rely on their notebooks in the same way as adults but for us, writing down our target language, revisiting it a few times can usually help us recall new words in conversation. A child's mind is sensitive, and given a favorable environment, it will absorb the language there. Adults, on the other hand, often try to learn a language from an app during their work commute at a high stress job. Add to that the anxiety of making mistakes and the socio-cognitive way that language must be learned and it becomes clear that we need to specialize our learning methods. 
 
 
-> "A short, attributed testimonial goes here — ideally from an adult learner who made real progress despite starting later in life."
-> — Student first name, context
+> "For years, I signed up for English classes and worked through levels, passed tests, and watched TV with subtitles but then I hit the B1 plateau. I took a few level exams and found that, especially in speaking, I wasn't really advancing. I decided I needed to take the time to design my own practical English program. I worked with a trainer for an hour a week and she helped me plan my own learning course. All the time I spent was good, but I had to learn to motivate myself. That made all the difference."
+> — Furkan, Dialog English School Istanbul Student
 
 ## What this means for adult learners
 
-<!-- TODO -->
+If Furkan's story rings true for you, if you've filled in the blanks in your adult education but still find yourself stuck at the B1 plateau then maybe it's finally time to take autonomy in your learning.
+
+Adults don't need to be micro-managed like school children. You learn best when you're behind the wheel, choosing your own materials and learning what you actually need in your life and career. But if you need a passenger who can help you read the course on this high speed rally towards advanced English proficiency, then check out my new *Self-Directed English Training Courses* with *Call Back* lessons.
+
+Instead of getting yourself stuck into another rigid curriculum, this program gives you the ultimate flexibility to build your own framework. Here's how we break the plateau together:
+- **Custom Blocks:** I designed lessons across the gamut of language challenges for all levels and learners. You choose two **20-minute live training sessions** each week, targeting the exact conversational or professional skills you want to master.
+- **Strategic Coaching:** You get direct access to me as your personal language trainer. I won't just teach you words, I'll help you design your course, track your progress digitally and give you feedback to build the habits you need to stay motivated.
+- **Powerful Asynchronious Tools:** When the video class ends, you'll get an email with specialized documents and proprietary apps. Your training comes backed by a massive library of on-demaind materials, and interactive content where you can input and receive prompt feedback. 
+
+Stop waiting to unlock your proficiency and take control of your English journey today.
 
 ---
 
