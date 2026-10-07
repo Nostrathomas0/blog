@@ -6,8 +6,10 @@ author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
 image: "/images/blog/learning-styles-header.jpg"
 image_alt: "Icons representing visual, auditory, and kinesthetic learning"
-cluster: "speaking-fluency"
 lang: "en"
+level: "Intermediate
+read_time: "6 min"
+cluster: "speaking-fluency"
 related: ["why-you-need-a-language-trainer", "why-you-keep-making-mistakes"]
 tags: ["learning styles", "self-directed learning"]
 cta_target: "/services/"

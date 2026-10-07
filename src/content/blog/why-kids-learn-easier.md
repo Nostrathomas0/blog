@@ -6,8 +6,10 @@ author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
 image: "/images/blog/kids-learning-header.jpg"
 image_alt: "Child playing and talking, illustrating natural language acquisition"
-cluster: "private-lessons"
 lang: "en"
+level: "Intermediate
+read_time: "6 min"
+cluster: "private-lessons"
 related: ["critical-period-myths", "neuroanatomy-of-speech"]
 tags: ["child language acquisition", "adult learning"]
 cta_target: "/services/"
@@ -29,8 +31,21 @@ All is not lost in adulthood. To a real extent, we can rebuild — and even impr
 > "A short, attributed testimonial goes here — ideally from an adult learner who used a 'child-like' method successfully."
 > — Student first name, context
 
-## Practical takeaways
+aw a seagull gliding in the wind and said, _I wish I could fly_ to which I asked, _Do you know why that bird can fly and we can't?_ the child shook their head _no_ and looked up at me wondering what I would say. _Because that bird's parents could also fly._  
 
+
+
+Nobody remembers learning their first language. We don't remember what we were thinking we learned to call *mama*. Every child develops language the same way.  Those  not through studying, but through acquisition. It was simply part of the world around them. Without it, humanity would look completely different. Language may not be universal across every human need, but it is unmistakably, fundamentally human.
+## Practical takeaways
+# Well, how did she know if babies heard the gradual changes? 
+
+Now I've been skeptical about this kind of testing since I first heard about it. These kind of researchers did a lot of perception tests on babies, and the method was as follows.
+1. Baby sits in blindfolded parent's lap. 
+2. Researcher plays sounds for baby from a speaker that also has a toy sitting on it. 
+3. Sounds eminate from the speaker. 
+4. Baby head turns towards the speaker when they notice the sound changes.
+
+Now it's difficult to overstate how much research was done on babies in this way in the 1990s. It's been called the colden age of baby perception research and nearly all the claims that babies brains contain complex systems to begin understanding language reaches back to earlier research done in the 1970s that prooved babies get bored by repetition and will reliably turn their heads towards novel sensations. 
 <!-- TODO -->
 https://www.smithsonianmag.com/science-nature/accents-are-forever-35886605/
 ---

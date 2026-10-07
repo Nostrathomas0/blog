@@ -6,8 +6,10 @@ author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English, including IELTS and TOEIC exam prep."
 image: "/images/blog/ielts-speaking-freeze-header.jpg"
 image_alt: "Exam candidate pausing during a speaking test"
-cluster: "exam-prep"
 lang: "en"
+level: "Intermediate
+read_time: "6 min"
+cluster: "exam-prep"
 related: ["ielts-speaking-practice-with-a-teacher", "your-first-private-english-lesson", "why-you-keep-making-mistakes"]
 tags: ["IELTS", "speaking exam", "exam anxiety"]
 cta_target: "/services/"

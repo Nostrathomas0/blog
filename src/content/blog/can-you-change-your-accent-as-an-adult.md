@@ -6,9 +6,11 @@ author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
 image: "/images/blog/wave.jpg"
 image_alt: "Adult practicing pronunciation in front of a mirror"
-cluster: "pronunciation-accents"
 lang: "en"
-related: ["how-to-improve-pronunciation-when-already-fluent", "change-english-accent-adult-followup", "neuroanatomy-of-speech"]
+level: "Intermediate
+read_time: "6 min"
+cluster: "pronunciation-accents"
+related: ["critical-period-myths", "neuroanatomy-of-speech"]
 tags: ["accent", "pronunciation", "adult learners"]
 cta_target: "/services/"
 has_bibliography: true
@@ -22,11 +24,11 @@ Most English speakers  would agree that there is no correct accent. There are hu
 
 We learn from our parents, teachers and other members of our community. Your accent marks you as a member of your community, but your voice changes as you age and the parts of language that you accquire change throughout your life. In early childhood, the musical and rhythmical elements of your first language are set. The grammar and word order will continue to develop throughout your childhood and you'll use new vocabulary throughout your life. Your accent will be heavily influenced by your first language.
 
-## What the research actually says
+## What the research says
 
-For an adult language learner, a native accent is like walking a tightrope, while for a native speaker, it's like walking on solid ground. In the 90s and early 2000s a load of research grants sought to figure out why. Training your ear and voice to pronounce the words **sit** **seat** and **site** will certinly improve your accuracy and help you approach nativelike precision, but simply knowing the correct pronunciation isn't enough because of biological limits that are difficult to overcome. 
+Training your ear and voice to pronounce the words **sit** **seat** and **site** will certinly help but there are biological limits are difficult to overcome. 
 
-In the early 90s, when this kind of research was getting funded at top universities, Patricia Kulh used an old computer to generate an /i/ sound like in the word **seat**. She also generated a bunch of other similar vowel sounds that changed gradually to reach other English vowel sounds like the /ɪ/ sound in **sit** or the /æ/ sound like in **sat**. She wanted to see if adults would register the gradually changing sounds. She tested adults and babies of various native languages as well as monkeys. English native adults weren't able to notice the gradual changes and would group nearby sounds together. She called this the *perceptual magnet* effect. To sum up decades of research across hundreds of studies in dozens of languages, *After 10 months, our brains change to recognize our  phonemes and this impacts how we hear and speak forever more.
+In the early 90s, a lof of research on brain and language development was getting funded at top universities. For example, Patricia Kulh used an computer to generate an /i/ sound like in the word **seat**. She also generated a bunch of other similar vowel sounds that changed gradually to reach other English vowel sounds like the /ɪ/ sound in **sit** or the /æ/ sound like in **sat**. She wanted to see if adults would register the gradually changing sounds. She tested adults and babies of various native languages as well as monkeys. English native adults weren't able to notice the gradual changes and would group nearby sounds together. Kuhl called this the **perceptual magnet** effect because the sounds in our native language pulled the nearby sounds towards it. To sum up decades of research across hundreds of studies in dozens of languages, *After 10 months, our brains change to recognize our  phonemes and this impacts how we hear and speak forever more.
 
 So, if she put a dozen sounds, changing in a spectrum from **seat** to **sat**, adults would group the first six together with /i/ and the last six as /æ/. [^kuhl1991]
 
@@ -35,9 +37,7 @@ Late second language learners show measurable changes in their phonological syst
 
 Best CC, McRoberts GW. Infant perception of non-native consonant contrasts that adults assimilate in different ways. Lang Speech. 2003;46(Pt 2-3):183-216. doi: 10.1177/00238309030460020701. PMID: 14748444; PMCID: PMC2773797.
 
-[^heidlmayr2021]: Karin Heidlmayr, Emmanuel Ferragne, and Frédéric Isel. (2021). "Neuroplasticity in the phonological system: The PMN and the N400 as markers for the perception of non-native phonemic contrasts by late second language learners." *Neuropsychologia*, 107831. [https://doi.org](https://doi.org)
 
-[^kuhl1991]: Kuhl PK. Human adults and human infants show a "perceptual magnet effect" for the prototypes of speech categories, monkeys do not. Percept Psychophys. 1991 Aug;50(2):93-107. doi: 10.3758/bf03212211. PMID: 1945741.
 
 ## Practical exercises that actually move the needle
 
@@ -49,7 +49,9 @@ Best CC, McRoberts GW. Infant perception of non-native consonant contrasts that 
 ## When it's worth working with a trainer
 
 <!-- TODO -->
+[^heidlmayr2021]: Karin Heidlmayr, Emmanuel Ferragne, and Frédéric Isel. (2021). "Neuroplasticity in the phonological system: The PMN and the N400 as markers for the perception of non-native phonemic contrasts by late second language learners." *Neuropsychologia*, 107831. [https://doi.org](https://doi.org)
 
+[^kuhl1991]: Kuhl PK. Human adults and human infants show a "perceptual magnet effect" for the prototypes of speech categories, monkeys do not. Percept Psychophys. 1991 Aug;50(2):93-107. doi: 10.3758/bf03212211. PMID: 1945741.
 ---
 
 **Related reading:** [How to Improve Your Pronunciation When You're Already Fluent](/blog/how-to-improve-pronunciation-when-already-fluent/) · [The Neuroanatomy of Speech](/blog/neuroanatomy-of-speech/)

@@ -8,6 +8,8 @@ image: "/images/blog/understand-but-cant-speak-header.jpg"
 image_alt: "Student pausing mid-sentence trying to find the right English word"
 cluster: "private-lessons"
 lang: "en"
+level: "Intermediate
+read_time: "10 minutes"
 related: ["are-private-english-lessons-worth-it", "how-to-become-fluent-without-translating", "turn-passive-vocab-into-useable-words"]
 tags: ["speaking anxiety", "comprehension vs production", "fluency"]
 cta_target: "/services/"

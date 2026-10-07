@@ -6,8 +6,10 @@ author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
 image: "/images/blog/neuroanatomy-speech-header.jpg"
 image_alt: "Diagram of brain regions involved in language production"
-cluster: "pronunciation-accents"
 lang: "en"
+level: "Intermediate
+read_time: "6 min"
+cluster: "pronunciation-accents"
 related: ["can-you-change-your-accent-as-an-adult", "why-kids-learn-easier"]
 tags: ["neuroscience", "speech production", "memory"]
 cta_target: "/services/"

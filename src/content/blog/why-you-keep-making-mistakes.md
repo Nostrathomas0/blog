@@ -6,8 +6,10 @@ author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
 image: "/images/blog/repeating-mistakes-header.jpg"
 image_alt: "Student reviewing corrected writing with feedback marks"
-cluster: "speaking-fluency"
 lang: "en"
+level: "Intermediate
+read_time: "6 min"
+cluster: "speaking-fluency"
 related: ["move-from-b1-to-b2", "turn-passive-vocab-into-useable-words", "ielts-speaking-practice"]
 tags: ["feedback", "language mistakes", "self-correction"]
 cta_target: "/services/"

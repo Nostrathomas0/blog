@@ -6,8 +6,10 @@ author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
 image: "/images/blog/language-gadgets-header.jpg"
 image_alt: "Collection of language-learning gadgets on a desk"
-cluster: "private-lessons"
 lang: "en"
+level: "Intermediate
+read_time: "6 min"
+cluster: "private-lessons"
 related: ["turn-passive-vocab-into-useable-words", "why-you-need-a-language-trainer"]
 tags: ["language learning tools", "tech gadgets", "gear review"]
 cta_target: "/services/"
