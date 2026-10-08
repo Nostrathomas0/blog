@@ -7,8 +7,8 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/language-trainer-header.jpg"
 image_alt: "Coach-style one-to-one coaching session, sport metaphor"
 lang: "en"
-level: "Intermediate
-read_time: "6 min"
+level: "Intermediate"
+read_time: 6
 cluster: "private-lessons"
 related: ["learning-styles-myth", "are-private-english-lessons-worth-it", "i-understand-english-but-cant-speak-it"]
 tags: ["language training", "coaching methodology", "value proposition"]

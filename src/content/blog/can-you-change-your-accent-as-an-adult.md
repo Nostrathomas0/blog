@@ -7,8 +7,8 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/wave.jpg"
 image_alt: "Adult practicing pronunciation in front of a mirror"
 lang: "en"
-level: "Intermediate
-read_time: "6 min"
+level: "Intermediate"
+read_time: 6
 cluster: "pronunciation-accents"
 related: ["critical-period-myths", "neuroanatomy-of-speech"]
 tags: ["accent", "pronunciation", "adult learners"]

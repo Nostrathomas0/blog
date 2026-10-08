@@ -7,8 +7,8 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/critical-period-myths-header.jpg"
 image_alt: "Timeline graphic of language acquisition across ages"
 lang: "fr"
-level: "Intermediate
-read_time: "6 min"
+level: "Intermediate"
+read_time: 6
 cluster: "private-lessons"
 related: ["why-kids-learn-easier", "how-to-become-fluent-without-translating"]
 tags: ["critical period", "adult learners", "language acquisition"]

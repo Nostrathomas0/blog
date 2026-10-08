@@ -7,8 +7,8 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English, including IELTS
 image: "/images/blog/ielts-speaking-freeze-header.jpg"
 image_alt: "Exam candidate pausing during a speaking test"
 lang: "en"
-level: "Intermediate
-read_time: "6 min"
+level: "Intermediate"
+read_time: 6
 cluster: "exam-prep"
 related: ["ielts-speaking-practice-with-a-teacher", "your-first-private-english-lesson", "why-you-keep-making-mistakes"]
 tags: ["IELTS", "speaking exam", "exam anxiety"]

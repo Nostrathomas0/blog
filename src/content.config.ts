@@ -12,7 +12,7 @@ const blog = defineCollection({
     image: z.string().optional(),
     image_alt: z.string().optional(),
     lang: z.string().default('en'),
-    level: z.enum(['beginner', 'intermediate', 'advanced']).optional(),
+    level: z.enum(['Beginner', 'Intermediate', 'Advanced']).optional(),
     read_time: z.number().optional(),
     cluster: z.string(),
     related: z.array(z.string()).optional(),

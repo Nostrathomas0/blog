@@ -7,8 +7,8 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/language-gadgets-header.jpg"
 image_alt: "Collection of language-learning gadgets on a desk"
 lang: "en"
-level: "Intermediate
-read_time: "6 min"
+level: "Intermediate"
+read_time: 6
 cluster: "private-lessons"
 related: ["turn-passive-vocab-into-useable-words", "why-you-need-a-language-trainer"]
 tags: ["language learning tools", "tech gadgets", "gear review"]

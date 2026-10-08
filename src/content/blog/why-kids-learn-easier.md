@@ -7,8 +7,8 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/kids-learning-header.jpg"
 image_alt: "Child playing and talking, illustrating natural language acquisition"
 lang: "en"
-level: "Intermediate
-read_time: "6 min"
+level: "Intermediate"
+read_time: 6
 cluster: "private-lessons"
 related: ["critical-period-myths", "neuroanatomy-of-speech"]
 tags: ["child language acquisition", "adult learning"]

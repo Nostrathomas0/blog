@@ -7,8 +7,8 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/learning-styles-header.jpg"
 image_alt: "Icons representing visual, auditory, and kinesthetic learning"
 lang: "en"
-level: "Intermediate
-read_time: "6 min"
+level: "Intermediate"
+read_time: 6
 cluster: "speaking-fluency"
 related: ["why-you-need-a-language-trainer", "why-you-keep-making-mistakes"]
 tags: ["learning styles", "self-directed learning"]

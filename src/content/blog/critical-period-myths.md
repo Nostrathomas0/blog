@@ -7,8 +7,8 @@ author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and t
 image: "/images/blog/critical-period.jpg"
 image_alt: "Timeline graphic of language acquisition across ages"
 lang: "en"
-level: "B2"
-read_length: "15 minutes" 
+level: "Intermediate"
+read_time: 15
 cluster: "private-lessons"
 related: ["why-kids-learn-easier", "how-to-become-fluent-without-translating"]
 tags: ["critical period", "adult learners", "language acquisition"]
@@ -55,7 +55,7 @@ Instead of getting yourself stuck into another rigid curriculum, this program gi
 - **Strategic Coaching:** You get direct access to me as your personal language trainer. I won't just teach you words, I'll help you design your course, track your progress digitally and give you feedback to build the habits you need to stay motivated.
 - **Powerful Asynchronious Tools:** When the video class ends, you'll get an email with specialized documents and proprietary apps. Your training comes backed by a massive library of on-demaind materials, and interactive content where you can input and receive prompt feedback. 
 
-Stop waiting to unlock your proficiency and take control of your English journey today.
+Stop waiting to unlock your proficiency and take control of your English journey today. 
 
 ---
 
