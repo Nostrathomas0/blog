@@ -4,6 +4,7 @@ slug: "i-understand-english-but-cant-speak-it"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
+draft: true
 image: "/images/blog/understand-but-cant-speak-header.jpg"
 image_alt: "Student pausing mid-sentence trying to find the right English word"
 lang: "en"

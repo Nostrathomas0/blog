@@ -4,6 +4,7 @@ slug: "turn-passive-vocab-into-useable-words"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
+draft: true
 image: "/images/blog/passive-vocab-header.jpg"
 image_alt: "Flashcards and a highlighted book page"
 lang: "en"

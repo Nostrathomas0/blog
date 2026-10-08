@@ -4,6 +4,7 @@ slug: "why-you-keep-making-mistakes"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
+draft: true
 image: "/images/blog/repeating-mistakes-header.jpg"
 image_alt: "Student reviewing corrected writing with feedback marks"
 lang: "en"

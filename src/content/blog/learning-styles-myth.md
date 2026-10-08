@@ -4,6 +4,7 @@ slug: "learning-styles-myth"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
+draft: true
 image: "/images/blog/learning-styles-header.jpg"
 image_alt: "Icons representing visual, auditory, and kinesthetic learning"
 lang: "en"

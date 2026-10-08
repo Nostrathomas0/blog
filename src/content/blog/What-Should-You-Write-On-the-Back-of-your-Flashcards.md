@@ -4,6 +4,7 @@ slug: "what-to-write-on-the-back-of-vocab-flashcards"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
+draft: true
 image: "/images/blog/flashcard-vocab-header.jpg"
 image_alt: "Flashcards and some different pages"
 lang: "en"

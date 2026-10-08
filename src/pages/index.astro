@@ -2,10 +2,14 @@
 import { getCollection } from 'astro:content';
 import BlogLayout from '../layouts/BlogLayout.astro';
 
-const posts = (await getCollection('blog')).sort(
-  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-);
+// This safely filters out drafts in production, then sorts everything by date
+const posts = (
+  await getCollection('blog', ({ data }) => {
+    return import.meta.env.PROD ? !data.draft : true;
+  })
+).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
+
 <BlogLayout title="Blog">
   <section class="masthead">
     <img src="/blog/images/Goguryeo_Samjogo.svg" alt="Thomas Schwartz" width="64" height="64" class="avatar" />

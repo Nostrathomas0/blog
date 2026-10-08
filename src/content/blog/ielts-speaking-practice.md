@@ -4,6 +4,7 @@ slug: "ielts-speaking-practice"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English, including IELTS and TOEIC exam prep."
+draft: true
 image: "/images/blog/ielts-speaking-freeze-header.jpg"
 image_alt: "Exam candidate pausing during a speaking test"
 lang: "en"
