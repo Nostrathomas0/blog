@@ -1,5 +1,6 @@
 ---
 title: "The Top 5 Myths About the Critical Period of Language Acquisition"
+slug: "critical-period-myths"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
