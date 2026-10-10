@@ -19,7 +19,7 @@ has_bibliography: true
 Americans usually speak with a throaty **r** sound, like a pirate — _Arrr Matey. I'll use my carrrd._
 ![Jolly Roger flying over US Flags](/images/blog/pirate.jpg#left-md) Irish people don't like the **th** sounds and use a **t** or **d** sound to start words like *three* or *there* sounding like _tree_ and _dere_, while *ze* French often use *z* and *s* sounds, _mais zis is just ze tip of ze iceberg_. 
 
-Most English speakers would agree that there is no correct accent. The world speaks in hundreds of different accents representing the different regions that people come from. In fact it's rather crude to suggest that *one*[*^] is correct and the others aren't.  Most people's voice reveals their nationality and sometimes their region. It's usually not rude to guess that origin in polite conversation. Most people are proud of their identity and are happy to talk about it.
+Most English speakers would agree that there is no correct accent. The world speaks in hundreds of different accents representing the different regions that people come from. In fact it's rather crude to suggest that *one*[^*] is correct and the others aren't.  Most people's voice reveals their nationality and sometimes their region. It's usually not rude to guess that origin in polite conversation. Most people are proud of their identity and are happy to talk about it.
 
 ## Why accents form
 
@@ -29,11 +29,11 @@ We acquire our language from our parents, teachers and other members of our comm
 
 Training your ear and voice to pronounce the words **sit** **seat** and **site** will certinly help you develop a nativelike accent but there are biological limits...
 
-In the early 90s, a lof of research on brain and language development was getting funded at top universities. At the University of Washington, Patricia Kulh used a computer to generate an /i/ sound like in the word **seat**. Then she also generated dozens more sounds in a gradient to reach the /ɪ/ sound in **sit** or the /æ/ sound like in **sat**. She wanted to see if adults would register the gradually changing sounds. She tested adults and babies of various native languages as well as monkeys.![Babies in Magnetoencephalography Machines](/images/blog/BabyInMEG.jpg#right-md) English native adults weren't able to notice the gradual changes and would group nearby sounds together. Kuhl called this the **perceptual magnet** effect because the sounds in our native language pulled the nearby sounds towards it. To sum up decades of research across hundreds of studies in dozens of languages, *After 10 months, our brains change to recognize our  phonemes and this impacts how we hear and speak forever more.
+In the early 90s, a lof of research on brain and language development was getting funded at top universities. At the University of Washington, Patricia Kulh used a computer to generate an /i/ sound like in the word **seat**. Then she also generated dozens more sounds in a gradient to reach the /ɪ/ sound in **sit** or the /æ/ sound like in **sat**. She wanted to see if adults would register the gradually changing sounds. She tested adults and babies of various native languages as well as monkeys.![Guy in Magnetoencephalography Machines](/images/blog/GuyInMeg.jpg#right-md) Little babies and monkeys noticed all the changes in the gradient, but older babies and adults weren't able to notice the gradual changes away from sounds in their native languages. Kuhl called this the **perceptual magnet** effect because the sounds in our native language pulled the nearby sounds towards it and she concluded that was a non-reversable change in the language center of the brain. To sum up decades of research across hundreds of studies in dozens of languages, our brains change to recognize our  phonemes and this impacts how we hear and speak forever more.
 
 So, if she put a dozen sounds, changing in a spectrum from **seat** to **sat**, adults would group the first six together with /i/ and the last six as /æ/. [^kuhl1991]
 
-If you heard the word **one** with emphatic stress, then you're either a native speaker, spent a lot of time around native speakers, or studied very hard to reproduce the **circumflex emphasis**[*^]
+If you heard the word **one** with emphatic stress, then you're either a native speaker, spent a lot of time around native speakers, or studied very hard to reproduce the **circumflex emphasis**[^*]
 
 Another study 
 Late second language learners show measurable changes in their phonological systems[^heidlmayr2021].
