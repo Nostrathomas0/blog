@@ -154,13 +154,15 @@ h1 {
 }
 
 /* ==========================================================================
-   NEW: Image alignment & text-wrap system
+   /* ==========================================================================
+   Image alignment & text-wrap system
    Usage in markdown:
-     ![alt](/img.jpg){.img-right}
-     ![alt](/img.jpg){.img-left}
-     ![alt](/img.jpg){.img-center}
-   Optional size modifiers:
-     {.img-right .img-sm}  {.img-left .img-md}  {.img-center .img-lg}
+     ![alt](/images/blog/foo.jpg#left)
+     ![alt](/images/blog/foo.jpg#right)
+     ![alt](/images/blog/foo.jpg#center)
+   Optional size modifiers (combine with position):
+     #left-sm  #right-md  #center-lg
+   (Handled by the rehypeImagePosition plugin in astro.config.mjs)
    ========================================================================== */
 
 .post-content img.img-right,
