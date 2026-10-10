@@ -1,0 +1,217 @@
+/* ==========================================================================
+   Global styles — colors/fonts pulled from languapps/assets/css/main.css
+   ========================================================================== */
+
+/* ---------- Post meta & tags ---------- */
+.post-meta {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+  color: #39454b;
+}
+
+.cluster-tag {
+  background: #98c593; /* soft-green accent */
+  color: #fff;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* ---------- Single post layout ---------- */
+.hero-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0.25rem 0 1.5rem;
+  color: #39454b;
+}
+
+.author-line {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e6e7;
+  color: #39454b;
+}
+
+.avatar-small {
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.author-bio {
+  margin: 0.15rem 0 0;
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+/* ---------- Post content ---------- */
+.post-content {
+  line-height: 1.7;
+  font-size: 1.1rem;
+  color: #39454b;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  display: block;
+}
+
+.post-content h2 {
+  margin-top: 2rem;
+}
+
+.post-content blockquote {
+  border-left: 3px solid #f35e08; /* brand orange */
+  padding-left: 1rem;
+  font-style: italic;
+  margin: 1.5rem 0;
+}
+
+/* ---------- Tags ---------- */
+.tags {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tag {
+  background: #e5e6e7;
+  color: #39454b;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+.back-link {
+  display: inline-block;
+  width: auto;
+  text-decoration: none;
+  margin-top: 2.5rem;
+}
+
+/* ---------- Masthead / listing page ---------- */
+.masthead {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e5e6e7;
+}
+
+.avatar {
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.byline {
+  font-family: 'Caveat', cursive;
+  font-size: 1.1rem;
+  color: #f35e08;
+  margin: 0;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.post-card h2 {
+  margin: 0 0 0.4rem;
+  font-size: 1.3rem;
+}
+
+.post-card a {
+  text-decoration: none;
+  color: #39454b;
+}
+
+.post-card a:hover h2 {
+  color: #f35e08;
+}
+
+/* ==========================================================================
+   NEW: Image alignment & text-wrap system
+   Usage in markdown:
+     ![alt](/img.jpg){.img-right}
+     ![alt](/img.jpg){.img-left}
+     ![alt](/img.jpg){.img-center}
+   Optional size modifiers:
+     {.img-right .img-sm}  {.img-left .img-md}  {.img-center .img-lg}
+   ========================================================================== */
+
+.post-content img.img-right,
+.post-content img.img-left,
+.post-content img.img-center {
+  margin: 0.5rem 0 1rem;
+}
+
+/* --- Float right, wrap text on left --- */
+.post-content img.img-right {
+  float: right;
+  margin-left: 1.5rem;
+  margin-right: 0;
+}
+
+/* --- Float left, wrap text on right --- */
+.post-content img.img-left {
+  float: left;
+  margin-right: 1.5rem;
+  margin-left: 0;
+}
+
+/* --- Centered, no wrap --- */
+.post-content img.img-center {
+  float: none;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+/* --- Size modifiers (applied alongside alignment) --- */
+.post-content img.img-sm { width: 30%; max-width: 220px; }
+.post-content img.img-md { width: 45%; max-width: 360px; }
+.post-content img.img-lg { width: 60%; max-width: 520px; }
+
+/* On mobile, never float — stack everything */
+@media (max-width: 640px) {
+  .post-content img.img-right,
+  .post-content img.img-left {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 1.5rem auto;
+  }
+}
+
+/* Clearfix: any h2/h3/blockquote that follows a floated image
+   gets breathing room. Also prevents the next heading from
+   sliding up beside the image. */
+.post-content h2,
+.post-content h3,
+.post-content blockquote {
+  clear: both;
+}

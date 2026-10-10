@@ -16,9 +16,10 @@ cta_target: "/services/"
 has_bibliography: true
 ---
 
-Americans usually speak with a throaty **r** sound, like a pirate — _Arrr Matey_. Irish people use a **t** or **d** sound to start words like *three* or *there* sounding like _tree_ and _dere_, while *ze* French often use *z* and *s* sounds, _mais zis is just ze tip of ze iceberg_. 
+Americans usually speak with a throaty **r** sound, like a pirate — _Arrr Matey_. 
+![Jolly Roger flying over US Flags](/images/blog/pirate.jpg#left) Irish people use a **t** or **d** sound to start words like *three* or *there* sounding like _tree_ and _dere_, while *ze* French often use *z* and *s* sounds, _mais zis is just ze tip of ze iceberg_. 
 
-Most English speakers  would agree that there is no correct accent. There are hundreds of different English accents representing the ways people speak English. It's rather crude to suggest that one accent is correct, but your voice probably gives away your nationality. It's usually not rude to guess that origin in polite conversation.    
+Most English speakers  would agree that there is no correct accent, rather hundreds of different accents representing the different regions people come from. In fact it's rather crude to suggest that one accent is correct. Most people's voice reveals their nationality and sometimes their region and. It's usually not rude to guess that origin in polite conversation. Most people are proud of their identity and are happy to talk about it.
 
 ## Why accents form
 
