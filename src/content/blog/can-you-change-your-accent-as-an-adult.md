@@ -21,9 +21,9 @@ Americans usually speak with a throaty **r** sound, like a pirate — _Arrr Mate
 
 Most English speakers would agree that there is no correct accent. The world speaks in hundreds of different accents representing the different regions that people come from. In fact it's rather crude to suggest that *one*[^*] is correct and the others aren't.  Most people's voice reveals their nationality and sometimes their region. It's usually not rude to guess that origin in polite conversation. Most people are proud of their identity and are happy to talk about it.
 
-## Why accents form
+## How accents form
 
-We acquire our language from our parents, teachers and other members of our community. Your accent marks you as a member of that community, but your voice changes as you age as do the parts of language that you accquire throughout your life. In early childhood, the musical and rhythmical elements of your first language are set. The grammar and word order will continue to develop throughout your childhood and you'll use new vocabulary throughout your life. Your accent will be heavily influenced by this early acquired language.
+We acquire our language from our parents, teachers and other members of our community. Your accent marks you as a member of that community, but your voice changes as you age. So do the parts of language that you accquire throughout your life. In early childhood, the phonal, musical and rhythmical elements of your first language are set. Next, the grammar and word order will start to develop. You'll use new vocabulary throughout your life. Your accent will be heavily influenced by this early acquired language.
 
 ## What the research says
 
@@ -33,7 +33,7 @@ In the early 90s, a lof of research on brain and language development was gettin
 
 So, if she put a dozen sounds, changing in a spectrum from **seat** to **sat**, adults would group the first six together with /i/ and the last six as /æ/. [^kuhl1991]
 
-If you heard the word **one** with emphatic stress, then you're either a native speaker, spent a lot of time around native speakers, or studied very hard to reproduce the **circumflex emphasis**[^*]
+
 
 Another study 
 Late second language learners show measurable changes in their phonological systems[^heidlmayr2021].
@@ -51,7 +51,11 @@ Best CC, McRoberts GW. Infant perception of non-native consonant contrasts that 
 
 ## When it's worth working with a trainer
 
-<!-- TODO -->
+
+
+
+[^*]:If you heard the word **one** with emphatic stress, then you're either a native speaker, spent a lot of time around native speakers, or studied very hard to reproduce the **circumflex emphasis**. Join my **English Prosedy** class to learn this and more about 
+
 [^heidlmayr2021]: Karin Heidlmayr, Emmanuel Ferragne, and Frédéric Isel. (2021). "Neuroplasticity in the phonological system: The PMN and the N400 as markers for the perception of non-native phonemic contrasts by late second language learners." *Neuropsychologia*, 107831. [https://doi.org](https://doi.org)
 
 [^kuhl1991]: Kuhl PK. Human adults and human infants show a "perceptual magnet effect" for the prototypes of speech categories, monkeys do not. Percept Psychophys. 1991 Aug;50(2):93-107. doi: 10.3758/bf03212211. PMID: 1945741.
