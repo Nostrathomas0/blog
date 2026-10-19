@@ -17,10 +17,10 @@ cta_target: "/services/"
 has_bibliography: false
 ---
 
-*Please tell me about yourself* she asks politely, her eyes flat and emotionless. You respond amicably with your name and a few details about your life, then you notice she's still looking at you, silently suggesting you continue... 
-Tongue-tied in the moment, your gaze passes to the clock, then the corner of the ceiling... your mind searching for the words to start. You go on to your hobbies, as practiced, but forget to use verb tense and fall back on the simple form. She smiles, but her eyes remain flat. The next question comes. *What is... a famous character... you have... recently?* You start talking about Star Wars movies you saw five years ago.
+*Please tell me about yourself* she asks politely, her eyes flat and emotionless. You respond with your name and a few details about your life. Then you smile. She smiles back at you, silently suggesting you say more... 
+Tongue-tied in the moment, your gaze passes to the clock, then the corner of the ceiling... your mind searching for the words to start. You go on to your hobbies, as practiced, but forget to use verb tense and fall back on the simple form. She smiles and nods her head, but her eyes remain flat. The next question comes, *What is... a famous character... you have... recently?* You start talking about Star Wars movies you saw five years ago.
 
-Is this at all familiar?
+Is this familiar?
 
 ## Why "social" speaking practice doesn't transfer to exam speaking
 
