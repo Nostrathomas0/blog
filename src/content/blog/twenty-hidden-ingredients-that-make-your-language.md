@@ -1,6 +1,6 @@
 --- 
 title: "20 Hidden Features of Your Language"
-slug: "fifteen-hidden-ingredients-that-make-your-language"
+slug: "twenty-hidden-ingredients-that-make-your-language"
 date: 2026-10-07
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
