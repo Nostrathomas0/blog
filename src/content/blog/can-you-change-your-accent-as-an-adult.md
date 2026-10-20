@@ -55,6 +55,6 @@ If you're working with an AI language training app, then you might getting close
 [^best2003]: Best CC, McRoberts GW. Infant perception of non-native consonant contrasts that adults assimilate in different ways. Lang Speech. 2003;46(Pt 2-3):183-216. doi: 10.1177/00238309030460020701. PMID: 14748444; PMCID: PMC2773797.
 ---
 
-**Related reading:** [How to Improve Your Pronunciation When You're Already Fluent](/blog/how-to-improve-pronunciation-when-already-fluent/) · [The Neuroanatomy of Speech](/blog/neuroanatomy-of-speech/)
+**Related reading:** [How to Improve Your Pronunciation When You're Already Fluent](/blog/critical-period-myths/) · [The Neuroanatomy of Speech](/blog/neuroanatomy-of-speech/)
 
 **Want feedback on your own accent goals?** [Book a lesson](/services/) and work on this one-to-one.
