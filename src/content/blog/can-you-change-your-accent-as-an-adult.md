@@ -14,6 +14,7 @@ related: ["critical-period-myths", "neuroanatomy-of-speech"]
 tags: ["accent", "pronunciation", "adult learners"]
 cta_target: "/services/"
 has_bibliography: true
+theme: "dark"
 ---
 
 Americans usually speak with a throaty **r** sound, like a pirate — _Arrr Matey. I'll use my carrrd._

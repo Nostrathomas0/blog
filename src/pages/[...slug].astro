@@ -12,8 +12,9 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const currentTheme = post.data.theme || 'light';
 ---
-<BlogLayout title={post.data.title}>
+<BlogLayout title={post.data.title} theme= {currentTheme}>
   <article>
     <div class="post-meta">
       <span class="cluster-tag">{post.data.cluster}</span>

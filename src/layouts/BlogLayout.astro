@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-const { title } = Astro.props;
+const { title, theme = 'light' } = Astro.props;
 ---
 <html lang="en">
   <head>
@@ -8,8 +8,17 @@ const { title } = Astro.props;
     <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" href="/assets/css/main.css" />
     <title>{title} — Languapps Blog</title>
+    <script is:inline>
+      const root = document.documentElement;
+      const assignedTheme = root.getAttribute('data-theme');
+      
+      if (assignedTheme === 'system') {
+        const systemMatchesDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        root.setAttribute('data-theme', systemMatchesDark ? 'dark' : 'light');
+      }
+    </script>
   </head>
-  <body>
+  <body class={theme === 'dark' ? 'dark-theme' : ''}>
     <header class="site-header">
       <a href="/blog/" class="site-logo">Languapps</a>
     </header>
@@ -25,6 +34,24 @@ const { title } = Astro.props;
 </html>
 
 <style>
+  :root, [data-theme="light"] {
+    --bg-color: #ffffff;
+    --text-color: #212529;
+    --border-color: #e5e6e7;
+    --footer-text: #39454b;
+  }
+
+  [data-theme="dark"] {
+    --bg-color: #0b0f19;
+    --text-color: #f3f4f6;
+    --border-color: #1e293b;
+    --footer-text: #9ca3af;
+  }
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
   .site-header {
     padding: 1.5rem 2rem;
     border-bottom: 1px solid #e5e6e7;

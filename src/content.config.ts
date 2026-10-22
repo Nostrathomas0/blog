@@ -20,6 +20,7 @@ const blog = defineCollection({
     tags: z.array(z.string()).optional(),
     cta_target: z.string().optional(),
     has_bibliography: z.boolean().default(false),
+    theme: z.enum(['light', 'dark', 'system']).default('system'),
   }),
 });
  
