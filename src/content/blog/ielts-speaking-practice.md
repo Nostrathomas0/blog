@@ -4,7 +4,7 @@ slug: "ielts-speaking-practice"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English, including IELTS and TOEIC exam prep."
-draft: true
+draft: false
 image: "/images/blog/ielts-speaking-freeze-header.jpg"
 image_alt: "Exam candidate pausing during a speaking test"
 lang: "en"
@@ -20,17 +20,17 @@ has_bibliography: false
 *Please tell me about yourself* she asks politely, her eyes flat and emotionless. You respond with your name and a few details about your life. Then you smile. She smiles back at you, silently suggesting you say more... 
 Tongue-tied in the moment, your gaze passes to the clock, then the corner of the ceiling... your mind searching for the words to start. You go on to your hobbies, as practiced, but forget to use verb tense and fall back on the simple form. She smiles and nods her head, but her eyes remain flat. The next question comes, *What is... a famous character... you have... recently?* You start talking about Star Wars movies you saw five years ago.
 
-Is this familiar?
+Is this familiar? You're not alone. I know because I'm describing myself at the *Test de connaissance du français* and I scored as well as I hoped on the listening, reading and writing but when I was sitting there with the guy asking questions and the recording device, I felt out of synch with all the preperation I'd done. I don't think I was underprepared. I don't think I was overconfident. I think I wasn't in the right mindframe for *that* kind of speaking.  
 
 ## Why "social" speaking practice doesn't transfer to exam speaking
 
 We get plenty of real speaking practice when we're out with friends — that relaxed, social back-and-forth genuinely builds our ability to speak spontaneously. Small-group conversation works because we're social creatures; we pick up language and culture together, the same way we always have.
 
-Speaking *is* social — unless you're in the oral section of the IELTS, TOEFL, TCF, TÖMER, or any formal proficiency exam. There, the social scaffolding disappears, and what's left is the raw skill.
+Speaking *is* social — unless you're in the oral section of the IELTS, TOEFL, TCF, TÖMER, or any formal proficiency exam. There, the social scaffolding disappears, and at that point our cognitive filter affect our speaking output. It becomes a completely different test of proficiency, more like giving a TED talk that talking to a person. 
 
 ## It's not a freeze — it's a fallback
 
-That moment of blanking isn't really panic. It's your brain falling back to the last language level you fully consolidated — a quiet signal that speaking skills weren't addressed directly enough in your prep. Interestingly, many learners write far more accurately than they speak, even though writing gives you time to think through conjugations, particles, and function words that speech doesn't.
+That moment of blanking isn't really panic. It's your brain falling back a level — a quiet signal that you need to overshoot your speaking practice goals.  learners write far more accurately than they speak, even though writing gives you time to think through conjugations, particles, and function words that speech doesn't.
 
 ## The content-word method
 

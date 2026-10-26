@@ -5,7 +5,7 @@ date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
 draft: false
-image: "/images/blog/understand-but-cant-speak-header.jpg"
+image: "/images/blog/tongue-tied.jpg"
 image_alt: "Student pausing mid-sentence trying to find the right English word"
 lang: "en"
 level: "Beginner"
@@ -17,26 +17,40 @@ cta_target: "/services/"
 has_bibliography: false
 ---
 
-As an English teacher in classrooms across Turkey and France, I meet a lot of students. Classes of young adults in university were my favorite because all the students seemed to learn differently. A class like this presents the greatest challenge and I would do my best to give each student the specialized lesson content that would help them. Some students would sit close and listen carefully, but never raise their hand to answer questions. After a few weeks, they would stay after class and ask, "How can I improve my English? I understand, but I can't *speak*." 
-
-After teaching for fifteen years of teaching and studying language acquisition, I would like to give my best answers to that question and share the best ways to overcome those challenges, so here are **Three Reasons Why You can't Speak English as well as you can Understand it.**
-
-
- answers used to range from the obvious, "But you just said *that* in English" or technical, "English is easier to understand than to produce because of its dense phonology" to the practical, "Your voice is a muscle, let's train it through conversation". Really, there's no single reason people feel tongue tied so I set out to find three real reasons this happens.
+I see a lot of people listening quitely to English conversation, trying to catch the meaning. If I notice this, I might slow down and use easier words for a bit, then ask them a question. As an intermediate French and Turkish speaker, I try to socialize with advanced speakers and understand 50-80%. Often gives a motivation boost. Seeking out higher level conversation is a good challenge but if you're still saying, "I understand, but I can't *speak*", then let my experience guide you. I'll explain here, what I believe are the 3 most common causes of speaking skills dragging behind. Each cause comes with my best solutions to that problem. So here are **Three Reasons Why You can't Speak English as well as you can Understand it.**
 
 ## Reason 1: English is Weird
+The world's second language should be easy to learn. It should be easy to read and write, right? Not English!
 
-If the whole world has to learn a language for school and work, it should be easy to learn right? You should hear a word and know how to write it, right? Not English! We have silent k- at the beginning of **know**, so if it's silent you should be able to take it off. That leaves you with **now** but then you realize that's pronounced with completely different sound at the end. Then you realize it sounds exactly like **no**... Ok, so... maybe there's a group of words that are pronounced *and* written the same. You find that *know*, rhymes and spells like **snow**, **blow** and **row**. **Now** is like **how**, **allow** and **wow**, while **no** spells and rhymes with **so** and **yo**. Then your teacher tells you there ARE actually rules to English spelling, but it's easier just to memorize all the spelling AND the pronunciation. This means that your teacher doesn't understand the spelling rules either.
+#### Irregular Spelling and Pronunciation
+We have silent k- at the beginning of **know**. Take it off! Ok, **now** but that's pronounced with completely different sound. Ok, so **know** sounds like **no**. Hmm... maybe there's a group of words that are pronounced *and* written the same. You find **know**, **snow**, **blow** and **row**. **Now** sounds like **how**, **allow** and **wow**, while **no** spells and rhymes with **so** and **yo**. There are rules to English spelling, but it's easier just to memorize all the spelling AND the pronunciation because your teacher doesn't know them either.
 
-## Reason 2: Speaking a Lot Might Be Hurting Your Pronunciation
+#### So many Vowel Sounds
+Each of these words have a different vowel sound Bat, Bet, Bit, Bot, But, Bait, Beet, Bite, Boat, Boot, Beauty, Put, Bought, Bert, Bout & Boy. 
 
-School life is all about pairing comprehensible input with natural expression. Say you're French class takes a trip to Quebec, or you get a semester abroad in the middle of university. These kinds of trips allow students to acquire the goals they practiced for with instruction, workbooks, quizzes. Young adults are often able to afford unstructured travel, staying in hostel rooms and meeting international friends. Adults are still able to acquire a language socially though, in an even more effictive way. But before discussing those effective methods, the last reason language learners of all ages get tongue tied. 
+#### Do Support
+English questions need an auxilliary verb (unless they're asking for a subject) If they verb form is too simple to give you one, add **do**.
+
+### How to Level Up
+Focus on high frequency words first and try to nail your pronunciation. It also helps to know which words are often shortened, like *want to*'s shortening to *wanna*. Combine slow speaking practice alone, with natural conversation and you'll advance quickly.
+
+
+## Reason 2: Learning a language is probably harder than you think it is.
+
+These days, beginner language learners usually download one of the many apps. This is useful but there are a few reasons to be careful. 
+
+#### False Advertizing
+
+The apps that claim you can *Get Fluent Fast* are not new. Businesses have been making this claim since the printing press ![A Few Weeks | Linguaphone](/images/blog/1940-12-10 Gallica.jpg#md-left) browser cookies you're bound to get a lot of shady offers that claim you can reach fluency in any language in just a few weeks. This blog would never sell your data to some untrustworthy app but, game recognizes game. Research has shown that advancing a level takes hundreds of hard hours that get harder. The beginner study program is pronouns, greetings, introductions and vocabulary lists looked at with a fresh mind. And then each level builds on that base. Intermediate students need to work on building a conversational language that requires study, practice, socialization, abstract thinking, revision and feedback. The goalposts are no longer just vocabulary and grammar.
+
+### How to Level Up
+Time management is important. Some apps bother you to study every day. This is the **Kaizan Method** of micro-learning. This ensures that you're continually moving forward, even if your schedule and motivation don't allow you to open your books, and study. On days when your learning factor is high, you can apply the **Pomodoro Method** by reading, writing and giving yourself a break every 25 minutes.
 
 ## Reason 3: The Cognitive Filter
 
-This is a rather old bit of theory that suggests that stress limits our social and cognitive skills. Later on, a SLA researcher named Stephen Krashen suggested that new language input turns on those same survival instincts. Even if you're comfortable with reading or listening, hearing a new language can temporarily turn off your social skills.  
+This is an old theory that suggests stress can disturb our thinking skills. My Language teacher hero, Stephen Krashen suggested that new language input turns on those same survival instincts and increases stress hormones. Even if you're comfortable with reading or listening, hearing a new language can temporarily turn off your social skills.  
 
-
+School life is all about pairing comprehensible input with natural expression. Say you're French class takes a trip to Quebec, or you get a semester abroad in the middle of university. These kinds of trips allow students to acquire the goals they practiced for with instruction, workbooks, quizzes. Young adults are often able to afford unstructured travel, staying in hostel rooms and meeting international friends. Adults are still able to acquire a language socially though, in an even more effictive way. But before discussing those effective methods, the last reason language learners of all ages get tongue tied. 
 <!-- TODO: content for reason 2 -->
 
 <!-- TODO: Reason 3 to be drafted -->
@@ -55,7 +69,7 @@ This is a rather old bit of theory that suggests that stress limits our social a
 <!-- TODO: tie the three reasons together into practical next steps -->
 
 ---
-
+[^ France : liberté, égalité, fraternité : journal quotidien paraissant à Londres, Association des Français de Grande-Bretagne, Édition du 10 décembre 1940. Document numérisé par la Bibliothèque nationale de France (Gallica).]
 **Related reading:** [Are Private English Lessons Worth It?](/blog/are-private-english-lessons-worth-it/) · [How to Become Fluent Without Translating Everything](/blog/how-to-become-fluent-without-translating/) · [How to Turn Passive Vocabulary Into Words You Actually Use](/blog/turn-passive-vocab-into-useable-words/)
 
 **Ready to close this gap yourself?** [Book a lesson](/services/) and start training the speaking half of the skill, not just the listening half.
