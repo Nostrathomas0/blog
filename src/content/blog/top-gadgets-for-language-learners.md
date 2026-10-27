@@ -4,6 +4,7 @@ slug: "top-gadgets-for-language-learners"
 date: 2026-09-06
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
+draft: true
 image: "/images/blog/language-gadgets-header.jpg"
 image_alt: "Collection of language-learning gadgets on a desk"
 lang: "en"

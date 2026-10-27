@@ -1,7 +1,7 @@
 ---
 title: "What is Flipped Learning and Why it's Easier than Ever to Teach Yourself a Language"
 slug: "what-is-flipped-learning"
-date: 2026-10-27
+date: 2026-10-26
 author: "Thomas Schwartz"
 author_bio: "MA TESOL (Stony Brook), 15+ years teaching English — builds and teaches at Languapps."
 draft: true
@@ -16,5 +16,9 @@ tags: ["speaking anxiety", "comprehension vs production", "fluency"]
 cta_target: "/services/"
 has_bibliography: false
 ---
+*For my own amusement, I'm going to write the first part of this blog from my memory, and then do the research and write more based on what I learn.*
+### Flipped Learning ... Flipped like How?
+About ten years ago, I was working in a language school and it was there that I first heard another teacher say that they w
 
-## 
+
+###

@@ -14,6 +14,7 @@ related: ["why-kids-learn-easier", "how-to-become-fluent-without-translating"]
 tags: ["critical period", "adult learners", "language acquisition"]
 cta_target: "/services/"
 has_bibliography: false
+theme: "dark"
 ---
 
 The Critical Period is a biologically determined phase from birth until early childhood where our phonological framework is built. When you're a baby, the foundations of your language use are set. This theory states that it is not possible to recreate the conditions later in life effectively limiting our ability to learn a second language. On the other hand, many people claim to have acquired nativelike proficiency in late childhood or even as adults.   
