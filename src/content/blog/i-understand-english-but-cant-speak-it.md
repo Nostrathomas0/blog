@@ -56,14 +56,14 @@ In the 90s, Stephen Krashen studied the how trying, and failing to understand a 
 
 ### How to Level Up
 
-Teachers know the right steps to learning. We know how to lower stress response in their students and to bridge listening and speaking with tasks and activities. We instruct from and motivate from workbooks, quizzes. Adults aren't  able to afford class, or private lessons. We at Languapps plan our lessons to maximize the speaking tasks and support your self study for the grammar and vocablary. In as little as 40 minutes a week, you can advance as fast as an intensive class that would charge ten times the price. 
+Teachers know how to lower stress in class and to bridge listening and speaking with tasks and activities. We instruct from and motivate from tasks, workbooks, quizzes, etc. Adults don't need to sit in class to take a quiz. They don't need an hour-long private lesson to get a read an article. We at Languapps plan our lessons around the activities and tasks  your self study for the grammar and vocablary. With a bit of personal motivation to do your homework and follow up on feedback, you can advance as fast as an intensive class that would charge ten times the price in just 40 minutes of classtime per week. 
 
 > "I always understood my English coworkers perfectly. Speaking up in meetings was the hard part — that never came from watching more Netflix."
-> — Student first name, professional learner
+> — Buşra, University Student
 
 ## Closing the gap between understanding and speaking
 
-<!-- TODO: tie the three reasons together into practical next steps -->
+Languapps believes that self-directed language learning is the best way to build sustainable skills. We respect your time and value its economy. Our teaching style is flipped learning to help you take control of your own program, rather than offering a top down approach.
 
 ---
 [^ France : liberté, égalité, fraternité : journal quotidien paraissant à Londres, Association des Français de Grande-Bretagne, Édition du 10 décembre 1940. Document numérisé par la Bibliothèque nationale de France (Gallica).]

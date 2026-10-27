@@ -26,7 +26,7 @@ Is this familiar? You're not alone. I know because I'm describing myself at the 
 
 We get plenty of real speaking practice when we're out with friends — that relaxed, social back-and-forth genuinely builds our ability to speak spontaneously. Small-group conversation works because we're social creatures; we pick up language and culture together, the same way we always have.
 
-Speaking *is* social — unless you're in the oral section of the IELTS, TOEFL, TCF, TÖMER, or any formal proficiency exam. There, the social scaffolding disappears, and at that point our cognitive filter affect our speaking output. It becomes a completely different test of proficiency, more like giving a TED talk that talking to a person. 
+Speaking *is* social — unless you're in the speaking part of the IELTS, TOEFL, TCF, TÖMER, or any formal proficiency exam. There, the social scaffolding disappears, and at that point our cognitive filter affect our speaking output. It becomes a completely different test of proficiency, more like giving a TED talk that talking to a person. 
 
 ## It's not a freeze — it's a fallback
 
