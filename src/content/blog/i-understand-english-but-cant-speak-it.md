@@ -41,25 +41,22 @@ These days, beginner language learners usually download one of the many apps. Th
 
 #### False Advertizing
 
-The apps that claim you can *Get Fluent Fast* are not new. Businesses have been making this claim since the printing press ![A Few Weeks | Linguaphone](/images/blog/1940-12-10_Gallica.jpg#left-md) browser cookies you're bound to get a lot of shady offers that claim you can reach fluency in any language in just a few weeks. This blog would never sell your data to some untrustworthy app but, game recognizes game. Research has shown that advancing a level takes hundreds of hard hours that get harder. The beginner study program is pronouns, greetings, introductions and vocabulary lists looked at with a fresh mind. And then each level builds on that base. Intermediate students need to work on building a conversational language that requires study, practice, socialization, abstract thinking, revision and feedback. The goalposts are no longer just vocabulary and grammar.
+Mobile apps say you can *Get Fluent Fast!* with their amazing method. This claim is as old as the press[A Few Weeks | Linguaphone](/images/blog/1940-12-10_Gallica.jpg#right-md). Game recognizes game but research has shown that advancing a level takes hundreds of hard hours.  
+
+#### Increasing Difficulty
+The beginner study program is pronouns, greetings, introductions and vocabulary lists. Each level builds on that base. Intermediate students need to work on building a conversational language that requires study, practice, socialization, abstract thinking, revision and feedback. The goalposts get moved back with each advancing level.
+
 
 ### How to Level Up
-Time management is important. Some apps bother you to study every day. This is the **Kaizan Method** of micro-learning. This ensures that you're continually moving forward, even if your schedule and motivation don't allow you to open your books, and study. On days when your learning factor is high, you can apply the **Pomodoro Method** by reading, writing and giving yourself a break every 25 minutes.
+Time management is important. Some apps bother you to study every day, putting in practice the **Kaizan Method** of micro-learning. This ensures that you're continually moving forward, even if your schedule and motivation don't allow you to open your books, and study. On days when your learning factor is high, you can apply the **Pomodoro Method** with a marathon of reading, writing, speaking and listening. Take a break every 25 minutes.
 
 ## Reason 3: The Cognitive Filter
 
-This is an old theory that suggests stress can disturb our thinking skills. My Language teacher hero, Stephen Krashen suggested that new language input turns on those same survival instincts and increases stress hormones. Even if you're comfortable with reading or listening, hearing a new language can temporarily turn off your social skills.  
+In the 90s, Stephen Krashen studied the how trying, and failing to understand a new language causes a stress response, which releases cortizol and stops high level thought. Reading does not have this effect.
 
-School life is all about pairing comprehensible input with natural expression. Say you're French class takes a trip to Quebec, or you get a semester abroad in the middle of university. These kinds of trips allow students to acquire the goals they practiced for with instruction, workbooks, quizzes. Young adults are often able to afford unstructured travel, staying in hostel rooms and meeting international friends. Adults are still able to acquire a language socially though, in an even more effictive way. But before discussing those effective methods, the last reason language learners of all ages get tongue tied. 
-<!-- TODO: content for reason 2 -->
+### How to Level Up
 
-<!-- TODO: Reason 3 to be drafted -->
- a  which sounds the same as *no* spelling rules that you're better off guessing sometimes. in English is just a bad idea! No other  is the global language of business and education. You hear it in films, music, at work, on the internet constantly. That gives your brain enormous amounts of *comprehension* practice. But productive skills are different, and they're trained differently. You can recognize, and therefore *know* a word for years before you ever have to retrieve it under pressure. 
-
-<!-- TODO: Reason 2 to be drafted -->
-## Reason 3: [heading pending]
-
-<!-- TODO: content for reason 3 -->
+Teachers know the right steps to learning. We know how to lower stress response in their students and to bridge listening and speaking with tasks and activities. We instruct from and motivate from workbooks, quizzes. Adults aren't  able to afford class, or private lessons. We at Languapps plan our lessons to maximize the speaking tasks and support your self study for the grammar and vocablary. In as little as 40 minutes a week, you can advance as fast as an intensive class that would charge ten times the price. 
 
 > "I always understood my English coworkers perfectly. Speaking up in meetings was the hard part — that never came from watching more Netflix."
 > — Student first name, professional learner
